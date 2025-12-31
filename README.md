@@ -2,8 +2,8 @@
 - 👀 I’m interested in
 - 🌱 I’m currently learning React.js and Express.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: 
+- 📫 Reach out to me at ibrahim.salman2001@gmail.com 
+
 
 <!---
 ibrahimsalman2001/ibrahimsalman2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
